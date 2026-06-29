@@ -1,0 +1,15 @@
+[user]
+    name = Malavya Raval
+    email = malavyaraval@gmail.com
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+[core]
+    editor = code --wait
+    merge-tool = vscode
+[merge]
+    tool = vscode
+[diff]
+    tool = vscode
