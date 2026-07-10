@@ -1,0 +1,29 @@
+# Environment variables
+.env
+.env.*
+
+# Git configuration
+.gitconfig
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node.js
+node_modules/
+
+# Backup files
+*.bak
+*.backup
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Local state
+alpaca_state.json

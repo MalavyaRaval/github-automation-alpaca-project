@@ -1,0 +1,9 @@
+# Core dependencies
+requests>=2.31.0
+
+# Linters and formatters
+black>=23.12.0
+flake8>=6.1.0
+
+# Debugging
+debugpy>=1.8.0
